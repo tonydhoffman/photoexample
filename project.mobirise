@@ -44,6 +44,18 @@
       }
     ],
     "imageResize": true,
+    "lazyLoad": true,
+    "favicon": false,
+    "mbrsiteDomain": "vcy8q6v2wo",
+    "cssOptimize": false,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false,
+    "pwa-switcher": false,
+    "witsec-mailform": false,
     "uniqCompNum": 2,
     "versionPublish": "5.4.1"
   },
